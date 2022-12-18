@@ -11,13 +11,13 @@ features: # 可选的
   - title: 前端
     details: 前端体系资料
     link: /start/ # 可选
-    imgUrl: /assets/img/ui.png # 可选
+    imgUrl: /assets/img/web.png # 可选
   - title: 后端
     details: Java后端体系资料
     link: /deploy/
     imgUrl: /assets/img/other.png
   - title: Python
-    details: Python学习资料
+    details: Python体系资料
     link: /more/
     imgUrl: /assets/img/python.png
 
@@ -26,4 +26,43 @@ postList: none
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
 
-想走过亚洲的熊首页建造。
+## 自我介绍
+
+- 小时候一直不理解。
+- 父母为什么可以那么早起床。
+- 长大后才明白 叫醒他们的不是闹钟。
+- 而是生活和责任。
+- 哪有什么岁月静好。
+- 只不过有人在替你负重。
+- 学习虽然不是唯一的出路、但却是寒门学子走上成功最容易的路。
+- 与君共勉、共同努力。各自攀登、顶峰相见！
+
+<Artplayer :src="{url:'http://cdn.xxoutman.cn/comeon.mp4'}" />
+
+<mark>努力变得更厉害，不要到以后面对自己想保护的人时，自己除了真心一无所有。</mark>
+
+## 学习计划
+
+### 第一阶段:
+
+- 完成 Vue3+TypeScript 的 coderwhy 的课程。（完成）
+
+- 完成 Vue3+Nuxt3 打造 SSR 网站应用。
+
+- 完成 uniapp 蛋糕项目。
+
+- 完成 React 学习 + 案例练习。
+
+### 第二阶段:
+
+- 完成深入 js 高级的 coderwhy 课程。
+
+- 完成深入 nodejs 的 coderwhy 课程。
+
+- 前端主流布局系统进阶与实战。
+
+### 第三阶段:
+
+- 完成 数据可视化体系课程。
+
+- 完成 taro 开发的基本流程。

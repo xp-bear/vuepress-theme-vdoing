@@ -57,7 +57,7 @@ export default <VdoingThemeConfig>{
   blogger: {
     avatar: "http://cdn.xxoutman.cn/logo.jpg",
     name: "想走过亚洲的熊",
-    slogan: "心有猛虎，细嗅蔷薇。",
+    slogan: "悄悄努力，然后惊艳所有人！",
   },
 
   // 社交图标 (显示于博主信息栏和页脚栏。内置图标：https://doc.xugaoyi.com/pages/a20ce8/#social)
@@ -72,17 +72,17 @@ export default <VdoingThemeConfig>{
       {
         iconClass: "icon-bilibili",
         title: "哔哩哔哩",
-        link: "https://space.bilibili.com/28474682",
+        link: "https://www.bilibili.com/",
       },
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/u2sb/vuepress-theme-vdoing-template",
+        link: "https://github.com/xp-bear",
       },
       {
         iconClass: "icon-gitee",
         title: "gitee",
-        link: "https://github.com/u2sb/vuepress-theme-vdoing-template",
+        link: "https://gitee.com/xp-bear",
       },
     ],
   },

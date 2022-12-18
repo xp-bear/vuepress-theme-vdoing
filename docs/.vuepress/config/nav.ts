@@ -5,7 +5,7 @@ import { NavItem } from "vuepress/config";
 export default <Array<NavItem>>[
   { text: "首页", link: "/" },
   {
-    text: "配置",
+    text: "前端",
     items: [
       {
         text: "项目配置",
@@ -20,8 +20,21 @@ export default <Array<NavItem>>[
         link: "/more/",
       },
       {
+        text: "vue教程",
+        link: "/vue/",
+      },
+      {
         text: "typescript教程",
         link: "/typescript/",
+      },
+    ],
+  },
+  {
+    text: "数据库",
+    items: [
+      {
+        text: "mysql教程",
+        link: "/mysql/",
       },
     ],
   },
