@@ -3,23 +3,23 @@ home: true
 # heroImage: /img/web.png
 heroText: 想走过亚洲的熊
 tagline: 人生就像一杯茶，不会苦一辈子，但会苦一阵子。
-# actionText: 立刻进入 →
-# actionLink: /start/
-bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
+actionText: 开始冒险 →
+actionLink: /vue/
+bannerBg: /assets/img/bg.jpeg # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
-features: # 可选的
-  - title: 前端
-    details: 前端体系资料
-    link: /start/ # 可选
-    imgUrl: /assets/img/web.png # 可选
-  - title: 后端
-    details: Java后端体系资料
-    link: /deploy/
-    imgUrl: /assets/img/other.png
-  - title: Python
-    details: Python体系资料
-    link: /more/
-    imgUrl: /assets/img/python.png
+# features: # 可选的
+#   - title: 前端
+#     details: 前端体系资料
+#     link: /start/ # 可选
+#     imgUrl: /assets/img/web.png # 可选
+#   - title: 后端
+#     details: Java后端体系资料
+#     link: /deploy/
+#     imgUrl: /assets/img/other.png
+#   - title: Python
+#     details: Python体系资料
+#     link: /more/
+#     imgUrl: /assets/img/python.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
@@ -40,29 +40,3 @@ postList: none
 <Artplayer :src="{url:'http://cdn.xxoutman.cn/comeon.mp4'}" />
 
 <mark>努力变得更厉害，不要到以后面对自己想保护的人时，自己除了真心一无所有。</mark>
-
-## 学习计划
-
-### 第一阶段:
-
-- 完成 Vue3+TypeScript 的 coderwhy 的课程。（完成）
-
-- 完成 Vue3+Nuxt3 打造 SSR 网站应用。
-
-- 完成 uniapp 蛋糕项目。
-
-- 完成 React 学习 + 案例练习。
-
-### 第二阶段:
-
-- 完成深入 js 高级的 coderwhy 课程。
-
-- 完成深入 nodejs 的 coderwhy 课程。
-
-- 前端主流布局系统进阶与实战。
-
-### 第三阶段:
-
-- 完成 数据可视化体系课程。
-
-- 完成 taro 开发的基本流程。
