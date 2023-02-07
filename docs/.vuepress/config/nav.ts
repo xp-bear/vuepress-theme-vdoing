@@ -12,6 +12,10 @@ export default <Array<NavItem>>[
         link: "/vue/",
       },
       {
+        text: "react教程",
+        link: "/react/",
+      },
+      {
         text: "typescript教程",
         link: "/typescript/",
       },

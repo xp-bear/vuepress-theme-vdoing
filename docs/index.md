@@ -12,10 +12,10 @@ features: # 可选的
     # details: ''
     link: /vue/ # 可选
     imgUrl: /assets/img/Vue.png # 可选
-  - title: Django系列
+  - title: React系列
     # details: ''
-    link: /django/
-    imgUrl: /assets/img/django.png
+    link: /react/
+    imgUrl: /assets/img/react.png
   - title: Flask系列
     # details: ''
     link: /flask/
