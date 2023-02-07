@@ -15,7 +15,7 @@ features: # 可选的
   - title: React系列
     # details: ''
     link: /react/
-    imgUrl: /assets/img/react.png
+    imgUrl: /assets/img/React.png
   - title: Flask系列
     # details: ''
     link: /flask/
