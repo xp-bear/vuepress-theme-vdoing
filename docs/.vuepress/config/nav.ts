@@ -7,18 +7,6 @@ export default <Array<NavItem>>[
   {
     text: "前端系列",
     items: [
-      // {
-      //   text: "项目配置",
-      //   link: "/start/",
-      // },
-      // {
-      //   text: "部署",
-      //   link: "/deploy/",
-      // },
-      // {
-      //   text: "更多参考",
-      //   link: "/more/",
-      // },
       {
         text: "vue教程",
         link: "/vue/",
@@ -44,6 +32,23 @@ export default <Array<NavItem>>[
       {
         text: "mysql教程",
         link: "/mysql/",
+      },
+    ],
+  },
+  {
+    text: "Python系列",
+    items: [
+      {
+        text: "django教程",
+        link: "/django/",
+      },
+      {
+        text: "flask教程",
+        link: "/flask/",
+      },
+      {
+        text: "爬虫教程",
+        link: "/spider/",
       },
     ],
   },
