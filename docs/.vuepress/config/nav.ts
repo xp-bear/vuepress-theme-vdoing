@@ -25,8 +25,8 @@ export default <Array<NavItem>>[
     text: "后端系列",
     items: [
       {
-        text: "尽请期待",
-        link: "javascript:;",
+        text: "node教程",
+        link: "/node/",
       },
     ],
   },
@@ -64,7 +64,7 @@ export default <Array<NavItem>>[
         link: "http://note.xxoutman.cn/",
       },
       {
-        text: "熊仔图床",
+        text: "熊仔网盘",
         link: "http://pic.xxoutman.cn/",
       },
       {
