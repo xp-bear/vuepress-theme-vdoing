@@ -20,7 +20,7 @@ features: # 可选的
   - title: Flask系列
     details: "Python 编写的轻量级 Web 应用框架"
     link: /flask/
-    imgUrl: /assets/img/flask.png
+    imgUrl: /assets/img/flask.svg
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: detailed

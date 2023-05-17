@@ -72,6 +72,10 @@ export default <Array<NavItem>>[
         link: "http://150.158.21.251:3000/",
       },
       {
+        text: "熊仔记账",
+        link: "http://account.xxoutman.cn/",
+      },
+      {
         text: "熊仔后台管理系统",
         link: "http://xp.xxoutman.cn/",
       },
