@@ -11,12 +11,13 @@ features: # 可选的
   - title: Vue系列
     details: "渐进式、JavaScript框架"
     link: /vue/ # 可选
-    imgUrl: https://v2.vuejs.org/images/logo.svg # 可选
+    imgUrl: /assets/img/Vue.svg # 可选
 
   - title: React系列
     details: "用于构建用户界面的 JavaScript 库"
     link: /react/
-    imgUrl: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+    imgUrl: /assets/img/React.svg
+
   - title: Flask系列
     details: "Python 编写的轻量级 Web 应用框架"
     link: /flask/
