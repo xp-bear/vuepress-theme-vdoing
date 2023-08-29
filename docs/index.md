@@ -18,10 +18,10 @@ features: # 可选的
     link: /react/
     imgUrl: /assets/img/React.svg
 
-  - title: Flask系列
-    details: "Python 编写的轻量级 Web 应用框架"
-    link: /flask/
-    imgUrl: /assets/img/flask.svg
+  - title: 软件测试
+    details: "描述一种用来促进鉴定软件的正确性、完整性、安全性和质量的过程。"
+    link: /swtest/
+    imgUrl: /assets/img/swtest.svg
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: detailed

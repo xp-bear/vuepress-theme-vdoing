@@ -5,6 +5,10 @@ import { NavItem } from "vuepress/config";
 export default <Array<NavItem>>[
   { text: "首页", link: "/" },
   {
+    text: "软件测试",
+    link: "/swtest/",
+  },
+  {
     text: "前端系列",
     items: [
       {
