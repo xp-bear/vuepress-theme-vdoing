@@ -19,7 +19,7 @@ features: # 可选的
     imgUrl: /assets/img/React.svg
 
   - title: 软件测试
-    details: "描述一种用来促进鉴定软件的正确性、完整性、安全性和质量的过程。"
+    details: "鉴定软件的正确性、完整性、安全性和质量的过程"
     link: /swtest/
     imgUrl: /assets/img/swtest.svg
 
